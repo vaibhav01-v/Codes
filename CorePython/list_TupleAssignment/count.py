@@ -1,0 +1,6 @@
+t=(2,0,0,2,0,5,0,4)
+if 0 in t:
+    print(t.count(0))
+    print(True)
+
+
