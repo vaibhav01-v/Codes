@@ -1,0 +1,6 @@
+s=set()
+s.add(20)
+s.add("20")
+s.add(20.2)
+# s.sort()
+print(s)
