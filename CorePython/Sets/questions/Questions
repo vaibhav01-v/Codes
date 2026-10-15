@@ -1,0 +1,5 @@
+Given two lists, find all unique elements across both lists.
+Find the elements that appear in the first list but not the second.
+Check whether one set is a subset of another.
+Find all unique characters in a string.
+Given a list of numbers, identify the duplicate values using sets
