@@ -14,6 +14,9 @@ for i in arr:
     merge.append(i)
 for j in arr1:
     merge.append(j)
+
+
+a=0
 print(merge)
 for i in merge:
     print(i)
